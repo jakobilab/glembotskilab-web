@@ -9,7 +9,8 @@ title = ""
 subtitle = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "picture_with_rounded_corners.png"
+#hero_media = "glembotski-research-header.png"
+hero_media = "welcome_long.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -76,6 +77,10 @@ function linkTo_UnCryptMailto( s )
 }
 // --> </script>
 
-Our lab focuses on the interplay of coding and non-coding RNAs, such as the novel class of circular RNAs in heart disease.
+Overarching Research Goals
+--------------------------
+Research in the Glembotski lab focuses on studies of cellular responses to physiological and pathological conditions, or stresses that challenge tissue viability and function. The overarching goals of the lab are to define signal transduction processes that are altered in cells in responses to stresses, such as a lack of oxygen and nutrients, known as ischemia, and how those processes remodel cells so they become more resilient to subsequent stresses. A better understanding of such protective stress responses is required in order to develop therapeutic approaches to treat chronic ailments, such as heart disease.
 
-Moreover, we develop new computational tools that can be used by other researchers in their field of interest.
+Specific Research Goals
+------------------------
+Heart disease is the nation's #1 cause of death, eclipsing the next five most frequent causes of death. Accordingly, the Glembotski lab focuses on basic science and translational heart disease research. Currently, our specific research goals are 1) to learn and understand the molecular mechanisms of heart disease, and 2) to convert what we learn to state-of-the-art therapies that could eventually reduce deaths due to heart disease.

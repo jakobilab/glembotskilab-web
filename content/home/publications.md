@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "Selected publications"
+title = "Latest publications"
 subtitle = "[Click for full list of publications](/publication/)"
 
 [content]
@@ -15,7 +15,7 @@ subtitle = "[Click for full list of publications](/publication/)"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 10
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -25,7 +25,7 @@ subtitle = "[Click for full list of publications](/publication/)"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "selected"
+    tag = ""
     category = ""
     publication_type = ""
     author = ""
@@ -68,5 +68,5 @@ subtitle = "[Click for full list of publications](/publication/)"
 +++
 
 {{% callout note %}}
-The full publication list can also be found in the [NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/tobias.jakobi.1/bibliography/public/).
+The full publication list can also be found in the [NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/christopher.glembotski.1/bibliography/public/?sortby=pubDate&sdirection=ascending).
 {{% /callout %}}

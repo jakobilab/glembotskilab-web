@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -54,4 +54,4 @@ hero_media = "tcrc.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-The Jakobi Lab is part of the [Translational Cardiovascular Research Center (TCRC)](https://phoenixmed.arizona.edu/tcrc) in the [Department of Internal Medicine](https://phoenixmed.arizona.edu/medicine) at the [The University of Arizona College of Medicine – Phoenix](https://phoenixmed.arizona.edu/).
+The Glembotski lab is part of the [Translational Cardiovascular Research Center (TCRC)](https://phoenixmed.arizona.edu/tcrc) in the [Department of Internal Medicine](https://phoenixmed.arizona.edu/medicine) at the [The University of Arizona College of Medicine – Phoenix](https://phoenixmed.arizona.edu/).

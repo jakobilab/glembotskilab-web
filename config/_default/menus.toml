@@ -29,9 +29,14 @@
   weight = 30
 
 [[main]]
-  name = "Jobs"
-  url = "#jobs"
+  name = "Career opportunities"
+  url = "#opportunities"
   weight = 40
+
+[[main]]
+  name = "Photo gallery"
+  url = "/gallery"
+  weight = 45
 
 [[main]]
   name = "Publications"
