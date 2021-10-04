@@ -15,5 +15,4 @@ subtitle:
 design:
   columns: '1'
 ---
-
 {{< gallery album="good_times" resize_options="x100" >}}
