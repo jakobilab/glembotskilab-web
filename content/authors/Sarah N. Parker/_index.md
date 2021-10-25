@@ -24,9 +24,10 @@ organizations:
 #bio: Bioinformatician interested in circular RNAs in the heart.
 
 interests:
-- Novel and combination chemotherapy treatments,
-- Epidemiology of human diseases,
-- Mechanisms of heart disease
+- In vitro and in vivo evaluation of novel and combination chemotherapy treatments 
+- Molecular mechanisms and risk factors of heart disease 
+- Distribution of disease in human populations 
+
 
 education:
   courses:
