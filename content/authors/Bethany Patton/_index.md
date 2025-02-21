@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Sean Noudali
+title: Bethany Patton
 
 # Username (this should match the folder name)
 authors:
-- Sean Noudali
+- Bethany Patton
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Professional
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -24,29 +24,33 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: Bioinformatician interested in circular RNAs in the heart.
 
-interests:
-- Pharmacology
-- Genetics 
-- Animal physiology 
-- Animal behavior 
+#interests:
+#- Computational RNA biology
+#- Bioinformatics
+#- Networks and functions of RNAs in the heart
+#- Systems cardiology
+#- High performance computing
 
-education:
-  courses:
-  - course: MS in Psychology
-    institution: Washington State University
-    year: 2021
-  - course: BS in Biological Sciences
-    institution: Arizona State University
-    year: 2017
+#education:
+#  courses:
+#  - course: Dr. rer. nat. in Bioinformatics
+#    institution: Bielefeld University, Germany
+#    year: 2014
+#  - course: MSc in Bioinformatics & Genome Research
+#    institution: Bielefeld University, Germany
+#    year: 2009
+#  - course: BSc in Bioinformatics & Genome Research
+#    institution: Bielefeld University, Germany
+#    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=1LBJORsAAAAJ
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=mDIRr7AAAAAJ
 #- icon: orcid
 #  icon_pack: fab
 #  link: https://orcid.org/0000-0003-1287-447X
@@ -68,7 +72,6 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Lab Members
 
 ---
-I joined the TCRC team in June 2021 and am conducting both cellular biology and animal physiology-related research. I have been involved in interdisciplinary academic research since 2015 and in the future, I plan to pursue a doctorate studying genetics and pharmacology. I was born and raised in Arizona and love to hike and be outdoors with my two cattle dogs.  

@@ -64,7 +64,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Alumni
 
 ---
 I began volunteering in Dr. Glembotski’s lab after graduating from San Diego State. That was my first introduction to cardiac research, and I immediately found it fascinating. The first thing I learned in lab was viral production and it has remained a passion of mine ever since. Outside of work I love to spend time outdoors, camping and hiking. If I have to be indoors I am baking, reading, or working on a puzzle!

@@ -65,7 +65,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Alumni
 
 ---
 I am a recent graduate from UCLA’s Fielding School of Public Health, earning a master’s degree in public health specializing in epidemiology. I enjoy yoga, traveling, and spending time with my family, and I am excited to be working with Dr. Glembotski and his team again. 

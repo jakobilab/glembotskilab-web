@@ -68,7 +68,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Alumni
 
 ---
 Erik Blackwood is the Senior Postdoctoral Fellow in Dr. Chris Glembotski’s lab at the University of Arizona College of Medicine – Phoenix. Erik was recruited to UA-COMP as a Faculty-in-Training and the Logistics Director for the Translational Cardiovascular Research Center of which Dr. Glembotski is the inaugural director. Erik completed his Ph.D. in the Cell and Molecular Biology Joint Doctoral Program between San Diego State University and UC San Diego where his research broadly concerned molecular cardiology focusing on the cardiac structure and function in the ischemic, hypertrophic, and failing heart, in vivo. He led a team at the SDSU Heart Institute that was focused on developing novel proteotoxic-based therapeutics for ischemic heart disease and hypertensive stress. More recently, Erik’s research has progressed into the development of novel large animal models of heart failure with either reduced or preserved ejection fraction and the efficacy testing of many of the lead candidate small molecule therapies in these swine models. His recruitment to UA-COMP has served to reinvigorate the lab’s interests in these therapies in the setting of neurodegenerative diseases and, appropriately enough, many national leaders in preclinical and clinical Alzheimer’s disease research reside right here in Arizona.
